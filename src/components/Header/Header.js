@@ -12,7 +12,7 @@ function Header(){
                         preserveAspectRatio="xMidYMid meet"
                         focusable="false"
                         class="style-scope yt-icon pointer"
-                        style={{ width: "30px", height: "30px" }}
+                        style={{ width: "1.5rem", height: "1.5rem" }}
                         >
                         <g class="style-scope yt-icon">
                         <path
