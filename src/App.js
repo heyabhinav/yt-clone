@@ -1,4 +1,5 @@
 import './App.css';
+import React from 'react';
 import Header from './components/Header/Header';
 import Sidebar from './components/Sidebar/Sidebar';
 import Filter from './components/Filter/Filter';
@@ -6,7 +7,7 @@ import Videos from './components/Videos/Videos';
 
 function App() {
   return (
-    <>
+    <div>
       <Header/>
       <div style={{display:'grid', gridTemplateColumns:'16% 82%', gap: '10px'}}>
         <div><Sidebar/></div>
@@ -15,7 +16,7 @@ function App() {
           <div style={{display:'block',backgroundColor:"transparent"}}><Videos/></div>
         </div>
       </div>
-    </>
+    </div>
   );
 }
 
