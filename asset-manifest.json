@@ -1,7 +1,7 @@
 {
   "main.css": "/yt-clone/static/css/main.5fdfb21b.chunk.css",
-  "main.js": "/yt-clone/static/js/main.b1005a26.chunk.js",
-  "main.js.map": "/yt-clone/static/js/main.b1005a26.chunk.js.map",
+  "main.js": "/yt-clone/static/js/main.08936467.chunk.js",
+  "main.js.map": "/yt-clone/static/js/main.08936467.chunk.js.map",
   "runtime~main.js": "/yt-clone/static/js/runtime~main.9928e7c9.js",
   "runtime~main.js.map": "/yt-clone/static/js/runtime~main.9928e7c9.js.map",
   "static/js/2.8808d590.chunk.js": "/yt-clone/static/js/2.8808d590.chunk.js",
@@ -9,7 +9,7 @@
   "static/js/3.937f6cc8.chunk.js": "/yt-clone/static/js/3.937f6cc8.chunk.js",
   "static/js/3.937f6cc8.chunk.js.map": "/yt-clone/static/js/3.937f6cc8.chunk.js.map",
   "index.html": "/yt-clone/index.html",
-  "precache-manifest.bffb76136ed5f96ac256c77beb1724a4.js": "/yt-clone/precache-manifest.bffb76136ed5f96ac256c77beb1724a4.js",
+  "precache-manifest.cee4b1183d12104ba9a8401347e58a82.js": "/yt-clone/precache-manifest.cee4b1183d12104ba9a8401347e58a82.js",
   "service-worker.js": "/yt-clone/service-worker.js",
   "static/css/main.5fdfb21b.chunk.css.map": "/yt-clone/static/css/main.5fdfb21b.chunk.css.map"
 }
